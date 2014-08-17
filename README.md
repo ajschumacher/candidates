@@ -57,4 +57,6 @@ Source: Local file [nr_1550.psv](nr_1550.psv)
 
 Process: `cat nr_1550.psv | ./pipe2csv.py > nr_1550.csv` (local script [pipe2csv.py](pipe2csv.py))
 
+Notes: This is useful because it makes a CSV with appropriate field quoting.
+
 Output: Local file [nr_1550.csv](nr_1550.csv)
